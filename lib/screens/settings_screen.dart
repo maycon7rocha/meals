@@ -53,7 +53,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
             padding: EdgeInsets.all(20),
             child: Text(
               'Configurações',
-              style: Theme.of(context).textTheme.title,
+              style: Theme.of(context).textTheme.headline6,
             ),
           ),
           Expanded(

@@ -63,7 +63,7 @@ class _MyAppState extends State<MyApp> {
         fontFamily: 'Raleway',
         canvasColor: Color.fromRGBO(255, 254, 229, 1),
         textTheme: ThemeData.light().textTheme.copyWith(
-              title: TextStyle(
+              headline6: TextStyle(
                 fontSize: 20,
                 fontFamily: 'RobotoCondensed',
               ),
